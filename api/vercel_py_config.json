@@ -1,0 +1,5 @@
+{
+  "runtime": "python",
+  "entrypoint": "index.py",
+  "maxDuration": 10
+}
